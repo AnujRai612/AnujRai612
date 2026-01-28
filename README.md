@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujrai612" alt="anujrai612" /></a> </p>
 
-- 🔭 I’m currently working on **building Agentic AI solutions**
+- 🔭 I’m currently working on **Building Agentic AI solutions**
 
 - 🌱 I’m currently learning **MCP & A2A**
 
 - 👯 I’m looking to collaborate on **AI/Cloud Projects**
 
-- 💬 Ask me about **gentic AI, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic Tool-Using AI, NLP (Embeddings, Transformers), Deep Learning (CNNs, RNNs, Attention Models), ML Algorithms, LangChain, LangGraph, Prompt Engineering, LangSmith**
+- 💬 Ask me about **Agentic AI, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic Tool-Using AI, NLP (Embeddings, Transformers), Deep Learning (CNNs, RNNs, Attention Models), ML Algorithms, LangChain, LangGraph, Prompt Engineering, LangSmith**
 
 - 📫 How to reach me **rai.anuj0@gmail.com**
 
